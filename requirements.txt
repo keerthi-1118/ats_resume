@@ -1,0 +1,9 @@
+Flask
+PyMuPDF
+python-docx
+openai
+sentence-transformers
+scikit-learn
+python-dotenv
+spacy
+flask-cors
